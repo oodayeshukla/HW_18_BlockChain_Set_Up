@@ -13,7 +13,19 @@
   ./geth --datadir node2 account new
   Where node1 and node2 will be the new directories that will be created to hold the newly created blockchain node information. 
 
-5: Follow the instructions for setting up the nodes using the prompts as shown in the following [screenshot]( https://github.com/oodayeshukla/HW_18_BlockChain_Set_Up/blob/main/1_Screenshot%20from%202021-10-10%2019-12-28.png)
+
+
+5: Follow the instructions for setting up the nodes using the prompts as shown in the following [screenshot]( https://github.com/oodayeshukla/HW_18_BlockChain_Set_Up/blob/main/1_Screenshot%20from%202021-10-10%2019-12-28.png).
+
+The node addresses are:  
+
+NODE 1
+Public address of the key:   0x066f81B90B11FdCE0323eBAF79dA4BEb8C01a0D5
+Path of the secret key file: node1/keystore/UTC--2021-10-10T23-07-48.876839289Z--066f81b90b11fdce0323ebaf79da4beb8c01a0d5
+
+NODE 2
+Public address of the key:   0xCB211eaC05270fc3Be62fF671654f14be76AD734
+Path of the secret key file: node2/keystore/UTC--2021-10-10T23-08-24.809312896Z--cb211eac05270fc3be62ff671654f14be76ad734
 
 6: Once both nodes have been configured, execute the following command, in separate command windows, one for each node: 
 
@@ -23,17 +35,10 @@
 
 ./geth --datadir node2 --unlock "0xCB211eaC05270fc3Be62fF671654f14be76AD734" --mine --port 30304 --bootnodes "enode://59d5e1f25013842bd1bcdf969d80a3adb7afe1ae9c0a99cb39a234acc25616971301a778147be9b92161f3db9f79433d4722c205cc38b991f549bf4af245e823@127.0.0.1:30303" --ipcdisable --allow-insecure-unlock
 
-7: The 
+8: Once both nodes are executing (and set up for mining) the following will be executing in two separate command windows, one for each node.  The command window on the left is Node 1, the Genesis node, and the command window on the left is node2 connected to node1.  The screen shot showing both nodes executing are is shown here on this [screeenshot]( 
 
 
   
 For this homework, the node1 and node2 addresses are:
 
-NODE 1
-Public address of the key:   0x066f81B90B11FdCE0323eBAF79dA4BEb8C01a0D5
-Path of the secret key file: node1/keystore/UTC--2021-10-10T23-07-48.876839289Z--066f81b90b11fdce0323ebaf79da4beb8c01a0d5
-
-NODE 2
-Public address of the key:   0xCB211eaC05270fc3Be62fF671654f14be76AD734
-Path of the secret key file: node2/keystore/UTC--2021-10-10T23-08-24.809312896Z--cb211eac05270fc3be62ff671654f14be76ad734
 
