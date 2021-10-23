@@ -15,7 +15,15 @@
 
 5: Follow the instructions for setting up the nodes using the prompts as shown in the following [screenshot]( https://github.com/oodayeshukla/HW_18_BlockChain_Set_Up/blob/main/1_Screenshot%20from%202021-10-10%2019-12-28.png)
 
+6: Once both nodes have been configured, execute the following command, in separate command windows, one for each node: 
 
+./geth --datadir node1 --unlock "0x066f81B90B11FdCE0323eBAF79dA4BEb8C01a0D5" --mine --rpc --allow-insecure-unlock
+
+7: To launch the second node, copy the enode address that is generated when node1 is launched as shown below. 
+
+./geth --datadir node2 --unlock "0xCB211eaC05270fc3Be62fF671654f14be76AD734" --mine --port 30304 --bootnodes "enode://59d5e1f25013842bd1bcdf969d80a3adb7afe1ae9c0a99cb39a234acc25616971301a778147be9b92161f3db9f79433d4722c205cc38b991f549bf4af245e823@127.0.0.1:30303" --ipcdisable --allow-insecure-unlock
+
+7: The 
 
 
   
