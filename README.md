@@ -13,7 +13,8 @@
   ./geth --datadir node2 account new
   Where node1 and node2 will be the new directories that will be created to hold the newly created blockchain node information. 
 
-5: Follow the instructions for setting up the nodes using the prompts as shown in the following screenshot: 
+5: Follow the instructions for setting up the nodes using the prompts as shown in the following [screenshot]( https://github.com/oodayeshukla/HW_18_BlockChain_Set_Up/blob/main/1_Screenshot%20from%202021-10-10%2019-12-28.png)
+
 
 
 
