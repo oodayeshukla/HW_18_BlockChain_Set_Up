@@ -1,4 +1,4 @@
-# HW_18_BlockChain_Set_Up
+# Homework 18: Blockchain Set Up
 
 In this Homework, we use the tools to set up a simulated blockchain and execute transactions. 
 
@@ -27,7 +27,7 @@ NODE 2
 Public address of the key:   0xCB211eaC05270fc3Be62fF671654f14be76AD734
 Path of the secret key file: node2/keystore/UTC--2021-10-10T23-08-24.809312896Z--cb211eac05270fc3be62ff671654f14be76ad734
 
-#Make sure that the port numbers on Node 1 and Node 2 do not clash!
+# Make sure that the port numbers on Node 1 and Node 2 do not clash!
 
 6: Once both nodes have been configured, execute the following command, in separate command windows, one for each node: 
 
@@ -43,3 +43,4 @@ Path of the secret key file: node2/keystore/UTC--2021-10-10T23-08-24.809312896Z-
   
 10: On the MyCrypto application you can check the status of your transaction as shown ![below](https://github.com/oodayeshukla/HW_18_BlockChain_Set_Up/blob/main/5_Screenshot%20from%202021-10-10%2019-50-48.png)
 
+11: You call also check recent transactions as shown ![below](https://github.com/oodayeshukla/HW_18_BlockChain_Set_Up/blob/main/7_Screenshot%20from%202021-10-10%2021-19-36.png)
