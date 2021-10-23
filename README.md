@@ -44,3 +44,11 @@ Path of the secret key file: node2/keystore/UTC--2021-10-10T23-08-24.809312896Z-
 10: On the MyCrypto application you can check the status of your transaction as shown ![below](https://github.com/oodayeshukla/HW_18_BlockChain_Set_Up/blob/main/5_Screenshot%20from%202021-10-10%2019-50-48.png)
 
 11: You call also check recent transactions as shown ![below](https://github.com/oodayeshukla/HW_18_BlockChain_Set_Up/blob/main/7_Screenshot%20from%202021-10-10%2021-19-36.png)
+
+12: Once a transaction is complete you will get the following succesful transaction notice as shown ![below](https://github.com/oodayeshukla/HW_18_BlockChain_Set_Up/blob/main/8_Screenshot%20from%202021-10-10%2021-19-58.png) 
+
+and ![here](https://github.com/oodayeshukla/HW_18_BlockChain_Set_Up/blob/main/9_Screenshot%20from%202021-10-10%2021-20-51.png)
+
+
+
+
