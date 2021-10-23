@@ -15,7 +15,7 @@ In this Homework, we use the tools to set up a simulated blockchain and execute 
 
 
 
-5: Follow the instructions for setting up the nodes using the prompts as shown in the following [screenshot]( https://github.com/oodayeshukla/HW_18_BlockChain_Set_Up/blob/main/1_Screenshot%20from%202021-10-10%2019-12-28.png).
+5: Follow the instructions for setting up the nodes using the prompts as shown in the following ![screenshot]( https://github.com/oodayeshukla/HW_18_BlockChain_Set_Up/blob/main/1_Screenshot%20from%202021-10-10%2019-12-28.png).
 
 The node addresses are:  
 
