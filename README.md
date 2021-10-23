@@ -1,6 +1,6 @@
 # HW_18_BlockChain_Set_Up
 
-# In this Homework, we use the tools to set up a simulated blockchain and execute transactions. 
+In this Homework, we use the tools to set up a simulated blockchain and execute transactions. 
 
 1: Download the file geth-alltools-linux-amd64-1.9.7 from https://geth.ethereum.org/downloads/.
 
@@ -35,7 +35,7 @@ Path of the secret key file: node2/keystore/UTC--2021-10-10T23-08-24.809312896Z-
 
 ./geth --datadir node2 --unlock "0xCB211eaC05270fc3Be62fF671654f14be76AD734" --mine --port 30304 --bootnodes "enode://59d5e1f25013842bd1bcdf969d80a3adb7afe1ae9c0a99cb39a234acc25616971301a778147be9b92161f3db9f79433d4722c205cc38b991f549bf4af245e823@127.0.0.1:30303" --ipcdisable --allow-insecure-unlock
 
-8: Once both nodes are executing (and set up for mining) the following will be executing in two separate command windows, one for each node.  The command window on the left is Node 1, the Genesis node, and the command window on the left is node2 connected to node1.  The screen shot showing both nodes executing are is shown here on this [screenshot](2_Screenshot from 2021-10-10 19-20-10.png) 
+8: Once both nodes are executing (and set up for mining) the following will be executing in two separate command windows, one for each node.  The command window on the left is Node 1, the Genesis node, and the command window on the left is node2 connected to node1.  The screen shot showing both nodes executing are is shown here on this [screenshot](./2_Screenshot from 2021-10-10 19-20-10.png) 
 
 
   
