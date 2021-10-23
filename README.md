@@ -37,5 +37,5 @@ Path of the secret key file: node2/keystore/UTC--2021-10-10T23-08-24.809312896Z-
 
 8: Once both nodes are executing (and set up for mining) the following will be executing in two separate command windows, one for each node.  The command window on the left is Node 1, the Genesis node, and the command window on the left is node2 connected to node1.  The screen shot showing both nodes executing are is shown here on this ![screenshot](https://github.com/oodayeshukla/HW_18_BlockChain_Set_Up/blob/main/2_Screenshot%20from%202021-10-10%2019-20-10.png). 
 
-9: Use the MyCrypto app to send transactions from one node (address) to another as shown ![below]().  
+9: Use the MyCrypto app to send transactions from one node (address) to another as shown ![below](https://github.com/oodayeshukla/HW_18_BlockChain_Set_Up/blob/main/3_Screenshot%20from%202021-10-10%2019-48-41.png).  
   
